@@ -43,7 +43,7 @@ A smart AI powered trash bin which identifies and detects the trash and performs
     9. All the information gets displayed in the IoT dashboard.
 ## Long description
 **Key Modules of swachBin:**
-1. Hardwared based front end
+1. Hardware based front end
 2. AI driven middle ware
 3. IoT and SQL infused backend
 
@@ -67,7 +67,7 @@ A smart AI powered trash bin which identifies and detects the trash and performs
 
 
 ## Team
-- **Bharathi Athinarayanan** - _Product owner & AI / ML architect_ 
+- [Bharathi Athinarayanan](https://github.com/rathisoft) - _Product owner & AI / ML architect_ 
 - **Suneetha Jonnadula** - _Lead Full stack developer_
 - **Prashanth P** - _Principal Application developer_
 - **Mohamed Fazil** - _AI / ML Developement Engineer_
