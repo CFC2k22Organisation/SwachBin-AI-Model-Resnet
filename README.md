@@ -4,14 +4,14 @@ A smart AI powered trash bin which identifies and detects the trash and performs
 
   ## Contents
 
-1. [Short description](#short-description)
-1. [Demo video](#demo-video)
-1. [The architecture](#architecture-overview)
-1. [Long description](#long-description)
-1. [Project roadmap](#project-roadmap)
-1. [Live demo](#live-demo)
-1. [Built with](#built-with)
-1. [Team](#team)
+1. [Short Description](#short-description)
+1. [Demo Video](#demo-video)
+1. [The Architecture](#architecture-overview)
+1. [Long Description](#long-description)
+1. [Project Roadmap](#project-roadmap)
+1. [Live Demo](#live-demo)
+1. [Built With](#built-with)
+1. [The Team](#team)
 1. [License](#license)
 
 
@@ -57,6 +57,7 @@ A smart AI powered trash bin which identifies and detects the trash and performs
 ![Techonology](./images/tech_logos.jpg)
 
 ## Getting started
+
 
 
 ## Installation
