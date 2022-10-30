@@ -30,7 +30,7 @@ A smart AI powered trash bin which identifies and detects the trash and performs
 
 ## Architecture Overview
 
-![Architecture](./images/swachbin_architecture.jpg)
+![Architecture](./images/swachbin_architecture.jpeg)
 
     1. The waste material / trash is presented in front of the camera that is connected to the SwachBin (powered by Raspberry Pi.)
     2. The captured image of the waste is sent to the Raspberry Pi.
