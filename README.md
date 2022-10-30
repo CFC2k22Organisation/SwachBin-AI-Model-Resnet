@@ -11,10 +11,9 @@ A smart AI powered trash bin which identifies and detects the trash and performs
 1. [Project roadmap](#project-roadmap)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
-1. [Future Tech inclusion](#future-tech-inclusion)
 1. [Team](#team)
 1. [License](#license)
-1. [Acknowledgments](#acknowledgments)
+
 
 ## Short description 
 
