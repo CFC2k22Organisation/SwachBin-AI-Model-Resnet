@@ -1,9 +1,6 @@
 # SWACHBIN ![Logo](./images/swachBINLogo.png)
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-A smart AI powered trash bin which identifies and detects the trash and performs classification at source enabling sustainability.
-
-  ## Contents
-
+## Contents
 1. [Short Description](#short-description)
 1. [Demo Video](#demo-video)
 1. [The Architecture](#architecture-overview)
@@ -15,7 +12,8 @@ A smart AI powered trash bin which identifies and detects the trash and performs
 1. [License](#license)
 
 ## Short description 
-SwachBIN (inspired from Hindi - swach indicates cleanlines) - solves the waste / trash segration menace at the source in a seamless way and at the same time accomplishes the task at ultra-low cost.
+SwachBIN (inspired from Hindi - swach indicates cleanlines) - a smart AI powered trash bin that solves the waste / trash segregation menace at the source in a seamless way and at the same time accomplishes the task at ultra-low cost and by enabling sustainability.
+
 ### What's the problem?
 The business case behind this project is that there are many places where community workers manually sort through trash for recycling purposes, such as sorting recycling items from waste items at waste transfer stations before being shipped off. 
 
