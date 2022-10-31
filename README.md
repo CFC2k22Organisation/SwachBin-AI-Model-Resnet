@@ -1,9 +1,9 @@
 # SWACHBIN ![Logo](./images/swachBINLogo.png)
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
 A smart AI powered trash bin which identifies and detects the trash and performs classification at source enabling sustainability.
 
   ## Contents
-
 1. [Short Description](#short-description)
 1. [Demo Video](#demo-video)
 1. [The Architecture](#architecture-overview)
