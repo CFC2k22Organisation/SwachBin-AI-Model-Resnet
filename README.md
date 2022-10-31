@@ -13,7 +13,6 @@ A smart AI powered trash bin which identifies and detects the trash and performs
 1. [Built With](#built-with)
 1. [The Team](#team)
 1. [License](#license)
-a
 
 ## Short description 
 
