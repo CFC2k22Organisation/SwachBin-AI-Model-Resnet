@@ -9,18 +9,18 @@ A smart AI powered trash bin which identifies and detects the trash and performs
 1. [The Architecture](#architecture-overview)
 1. [Long Description](#long-description)
 1. [Project Roadmap](#project-roadmap)
-1. [Addtional Video links](#live-demo)
+1. [Addtional Video links](#Additional-video-demo-links)
 1. [Built With](#built-with)
 1. [The Team](#team)
 1. [License](#license)
-
+a
 
 ## Short description 
 
 ### What's the problem?
 The business case behind this project is that there are many places where community workers manually sort through trash for recycling purposes, such as sorting recycling items from waste items at waste transfer stations before being shipped off. 
 
-Due to rapid urbanisation, the countries like India are facing massive waste management challenge. In India alone over 377 million urban people live in 7,935 towns and cities and generate 62 million tonnes of municipal solid waste per annum but only 43 million tonnes (MT) of the waste is collected, 11.9 MT is treated and 31 MT is dumped in landfill sites.[source](https://www.downtoearth.org.in/blog/waste/india-s-challenges-in-waste-management-56753) Solid Waste Management (SWM) is one among the basic essential services provided by municipal authorities in the country to keep urban centres clean. However, muncipal bodies are increasingly getting overwhelmed and almost all municipal authorities deposit solid waste at a dumpyard within or outside the city haphazardly. 
+Due to rapid urbanisation, the countries like India are facing massive waste management challenge. In India alone over 377 million urban people live in 7,935 towns and cities and generate 62 million tonnes of municipal solid waste per annum but only 43 million tonnes (MT) of the waste is collected, 11.9 MT is treated and 31 MT is dumped in landfill sites[(source)].(https://www.downtoearth.org.in/blog/waste/india-s-challenges-in-waste-management-56753) Solid Waste Management (SWM) is one among the basic essential services provided by municipal authorities in the country to keep urban centres clean. However, muncipal bodies are increasingly getting overwhelmed and almost all municipal authorities deposit solid waste at a dumpyard within or outside the city haphazardly. 
 
 One of the key reasons being "segration at source" is not happening properly. One might ask how about enforcing the law. For instance, in India, various subordinate legislations exists for regulating the manner of disposal and dealing with generated waste are made under the umbrella law of Environment Protection Act, 1986 (EPA). No matter how strict the laws are there until unless the citizens across the social strata are educated properly on how to deal with generated waste, laws and legislations will exist only in paper.
 
@@ -79,7 +79,7 @@ So our team came up with the following vision: SwachBin - that:
 ## Installation
 
 
-## Demo Links 
+## Additional Video Demo links 
 
 
 ## Team
