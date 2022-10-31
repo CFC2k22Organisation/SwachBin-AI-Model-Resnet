@@ -21,7 +21,9 @@ The business case behind this project is that there are many places where commun
 
 Due to rapid urbanisation, the countries like India are facing massive waste management challenge. In India alone over 377 million urban people live in 7,935 towns and cities and generate 62 million tonnes of municipal solid waste per annum but only 43 million tonnes (MT) of the waste is collected, 11.9 MT is treated and 31 MT is dumped in landfill sites[(source)](https://www.downtoearth.org.in/blog/waste/india-s-challenges-in-waste-management-56753). Solid Waste Management (SWM) is one among the basic essential services provided by municipal authorities in the country to keep urban centres clean. However, muncipal bodies are increasingly getting overwhelmed and almost all municipal authorities deposit solid waste at a dumpyard within or outside the city haphazardly. 
 
-One of the key reasons being "segration at source" is not happening properly. One might ask how about enforcing the law. For instance, in India, various subordinate legislations exists for regulating the manner of disposal and dealing with generated waste are made under the umbrella law of Environment Protection Act, 1986 (EPA). No matter how strict the laws are there until unless the citizens across the social strata are educated properly on how to deal with generated waste, laws and legislations will exist only in paper.
+One of the key reasons being "segregation at source" is not happening properly. One might ask how about enforcing the law. For instance, in India, various legislations exists for regulating the manner of disposal and dealing with generated waste under the umbrella law of Environment Protection Act, 1986 (EPA) but still landfills are getting dumped with mixed waste a lot leading to pollution.
+
+No matter how strict the laws are there until unless the citizens across the social strata are educated properly on how to deal with generated waste, laws and legislations will exist only in paper.
 
 In simple words, the problem that we have in our hand is - "Not able to segregate waste at source" 
 ### The idea
