@@ -15,11 +15,11 @@ A smart AI powered trash bin which identifies and detects the trash and performs
 1. [License](#license)
 
 ## Short description 
-
+SwachBIN (inspired from Hindi - swach indicates cleanlines) - solves the waste / trash segration menace at the source in a seamless way and at the same time accomplishes the task at ultra-low cost.
 ### What's the problem?
 The business case behind this project is that there are many places where community workers manually sort through trash for recycling purposes, such as sorting recycling items from waste items at waste transfer stations before being shipped off. 
 
-Due to rapid urbanisation, the countries like India are facing massive waste management challenge. In India alone over 377 million urban people live in 7,935 towns and cities and generate 62 million tonnes of municipal solid waste per annum but only 43 million tonnes (MT) of the waste is collected, 11.9 MT is treated and 31 MT is dumped in landfill sites[(source)].(https://www.downtoearth.org.in/blog/waste/india-s-challenges-in-waste-management-56753) Solid Waste Management (SWM) is one among the basic essential services provided by municipal authorities in the country to keep urban centres clean. However, muncipal bodies are increasingly getting overwhelmed and almost all municipal authorities deposit solid waste at a dumpyard within or outside the city haphazardly. 
+Due to rapid urbanisation, the countries like India are facing massive waste management challenge. In India alone over 377 million urban people live in 7,935 towns and cities and generate 62 million tonnes of municipal solid waste per annum but only 43 million tonnes (MT) of the waste is collected, 11.9 MT is treated and 31 MT is dumped in landfill sites[(source)](https://www.downtoearth.org.in/blog/waste/india-s-challenges-in-waste-management-56753). Solid Waste Management (SWM) is one among the basic essential services provided by municipal authorities in the country to keep urban centres clean. However, muncipal bodies are increasingly getting overwhelmed and almost all municipal authorities deposit solid waste at a dumpyard within or outside the city haphazardly. 
 
 One of the key reasons being "segration at source" is not happening properly. One might ask how about enforcing the law. For instance, in India, various subordinate legislations exists for regulating the manner of disposal and dealing with generated waste are made under the umbrella law of Environment Protection Act, 1986 (EPA). No matter how strict the laws are there until unless the citizens across the social strata are educated properly on how to deal with generated waste, laws and legislations will exist only in paper.
 
@@ -32,13 +32,18 @@ It automatically detect the waste as either recycle or non recycle trash and ope
 Through our solution, we can automate that process with this smart bin which will prove more efficient than current manual processes. There are currently no products like this in existence that we know of -- there are only standard automated recycling machines, which do not come equipped with an AI solution to classify what goes where, so we think it would be a valuable product to create in order to improve efficiency in our society's waste management system.
 
 Moreover it is affordable due to it's ultra low cost and when manufactured and deployed in enmasse the cost will further come down. 
-So our team came up with the following vision: SwachBin - that:
-* Solves the problem of “segregation at source” in a seamless manner 
+So our team came up with the following vision: SwachBin - an end to end open-source platform which when installed will:
+* Solve the problem of “segregation at source” in a seamless manner 
 * Educate the user about the type of waste they are disposing
-* Compliance with local / regional segregation rules and regulations
+* Enables compliance with local / regional segregation rules and regulations
 * Ultra low cost yet sophisticated
 * Aligns with UN goal of sustainability 
 ### How can technology help?
+Due to the infusion of AI / ML and advanced HW - it is possible to detect the types of waste soruce with high accuracy and also through the use of NLP (text to speech) we can educate the user as well on the type of waste they are disposing. 
+Through our research we found that no solution exits presently that is a combination of highly tech enabled yet highly affordable.
+
+Also thru advanced analytics and IoT platform based dashboard, government bodies can plan their trash picking schedule effectively thus enabling 'reduced carbon emissions'.
+- Less trips to households to pick waste = less fuel being burned = reduced carbon emission .. yay :)
 
 ## Demo video
 [![Watch the video](./images/swachbin_Video_preview_image.jpg)](https://www.youtube.com/)
