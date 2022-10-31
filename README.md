@@ -91,7 +91,7 @@ Also thru advanced analytics and IoT platform based dashboard, government bodies
 - [Bharathi Athinarayanan](https://github.com/rathisoft) - _Product owner & AI / ML architect_ 
 - [Suneetha Jonnadula](https://github.com/Sunivihaan) - _Lead Full stack developer_
 - [Prashanth P](https://github.com/Prashanthp) - _Principal Application developer_
-- [Mohamed Fazil](https://github.com) - _AI / ML Development Engineer_
+- [Mohamed Fazil](https://github.com/Fazil-24) - _AI / ML Development Engineer_
 
 ## License
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
